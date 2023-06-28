@@ -14,14 +14,16 @@ Before running the code, make sure you have the following installed:
 1. Clone the repository or download the script file.
 
 2. Install the required dependencies using the following command:
-
+```shell
 pip install tkinter
-
+```
 
 ## Usage
 
-To run the code, execute the following command: python login.py
-
+To run the code, execute the following command:
+```shell
+python login.py
+```
 
 The login system GUI will appear, allowing you to sign in or sign up.
 
