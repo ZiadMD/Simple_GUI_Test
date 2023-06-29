@@ -15,7 +15,7 @@ Before running the code, make sure you have the following installed:
 
 2. Install the required dependencies using the following command:
 ```shell
-pip install tkinter
+pip install tk
 ```
 
 ## Usage
