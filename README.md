@@ -1,7 +1,3 @@
-Here’s an updated and improved version of your README:
-
----
-
 # SecureLogin
 
 This is a simple and secure login system implemented using Python's Tkinter library. The program provides a graphical user interface (GUI) that allows users to sign in and sign up. Passwords are securely hashed before being stored in a JSON file.
